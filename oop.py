@@ -51,6 +51,6 @@ print(person_2.birthday_message())
 #and finally
 print (me.cap_name_and_job())
 
-
+#and that's about it for now! 
 
 
